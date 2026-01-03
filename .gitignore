@@ -27,7 +27,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -35,3 +34,4 @@ yarn-error.log*
 # generated files
 _dist-content/
 old-src/
+config.bat
